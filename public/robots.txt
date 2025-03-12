@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://navdeep-singh-ghotra.github.io/sitemap.xml

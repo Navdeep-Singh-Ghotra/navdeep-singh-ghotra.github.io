@@ -5,7 +5,7 @@ theme = 'ananke'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-pagination.pagerSize = 3                  # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 16                  # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -13,10 +13,10 @@ enableRobotsTXT = true
 [languages.en]
 title = "Navdeep"
 weight = 1
-contentDir = "content/"
+contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
 [languages.fr]
-title = "Ananke Fr"
+title = "Fr"
 weight = 2
 contentDir = "content/fr"
 
@@ -26,13 +26,13 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-text_color = "dark-green"
+text_color = "dark-blue"
 author = "NSG"
 favicon = ""
-site_logo = "/cloud.jpg"
+site_logo = "img/logo.svg"
 description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-background_color_class = "bg-lightest-blue"
+background_color_class = "bg-blue"
 recent_posts_number = 3
 
 [[params.ananke_socials]]

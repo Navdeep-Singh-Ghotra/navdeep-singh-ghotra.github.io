@@ -1,0 +1,4 @@
+baseURL = 'https://navdeep-singh-ghotra.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = 'ananke'

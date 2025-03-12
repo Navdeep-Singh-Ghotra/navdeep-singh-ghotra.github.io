@@ -1,4 +1,12 @@
-baseURL = 'https://navdeep-singh-ghotra.github.io/navdeep-singh-ghotra/'
+baseURL = 'https://navdeep-singh-ghotra.github.io/'
 languageCode = 'en-us'
-title = 'Portfolio'
+title = ''
 theme = 'ananke'
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'

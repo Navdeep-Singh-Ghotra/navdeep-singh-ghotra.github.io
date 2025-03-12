@@ -9,3 +9,8 @@ title = 'My First Post'
 This is **bold** text, and this is *emphasized* text.
 
 Put your skills here website!
+cascade:
+  featured_image: '/images/cloud.jpg'
+
+[params]
+site_logo = "img/logo.svg"

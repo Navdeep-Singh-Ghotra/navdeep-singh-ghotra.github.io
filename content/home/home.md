@@ -9,7 +9,7 @@ draft = false
     title="Software engineer"
     subtitle="Skillset <code>kubernetes, container orchestration</code>"
     buttonText="Email"
-    description="<strong>Strong</strong> and normal text. This comes from <a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'><code>home.md</code></a>, using the <code>showcase-section</code> shortcode.<br/>Below you can see the social links, provided by the <code>platform-links</code> shortcode."
+    description="Software engineer, AWS Certified Solutions Architect - Associate (SAA), AWS Certified DevOps Engineer – Professional."
     image="images/showcase/showcase.png"
     image2x="images/showcase/showcase@2x.png"
  >}}
@@ -41,7 +41,7 @@ draft = false
 
 {{< about-section
     title="About me"
-    content="I am <code>Navdeep Singh Ghotra</code>. <br/>I am a <code>software enthusiast</code>, with keen interest in  <em>devops</em> . "
+    content="I am <code>Navdeep Singh Ghotra</code>. <br/>I am a <code>software enthusiast</code>, with keen interest in  <em>devops</em> Results-driven and certified DevOps Engineer with [X years] of experience in designing, implementing, and managing CI/CD pipelines, cloud infrastructure, and automation tools. Proficient in cloud platforms (AWS, Azure, GCP), containerization (Docker, Kubernetes), and infrastructure-as-code (Terraform, Ansible). Strong expertise in improving system reliability, scalability, and security. Collaborative team player with excellent problem-solving skills and a passion for continuous learning."
     button_icon="icon-user"
     button_text="know more"
     button_url="https://www.linkedin.com/in/nsghotra"
@@ -54,8 +54,8 @@ draft = false
     title="Formal Education" >}}
 
 {{< experience-section
-    title="My job experience (title)"
-    intro_title="Intro (intro_title)"
+    title="My job experience"
+    intro_title="Intro"
     intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
     button1_url="https://example.com"
     button1_text="Visit Example"
@@ -66,7 +66,7 @@ draft = false
     button3_url="/experience"
 >}}
 
-## Experience (as list)
+## Experience
 
 {{< experience-list >}}
 

@@ -41,17 +41,17 @@ draft = false
 
 {{< about-section
     title="About me"
-    content="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
+    content="I am <code>Navdeep Singh Ghotra</code>. <br/>I am a <code>software enthusiast</code>, with keen interest in  <em>devops</em> . "
     button_icon="icon-user"
-    button_text="You can edit the text, link and icon"
-    button_url="https://www.google.com"
+    button_text="know more"
+    button_url="https://www.linkedin.com/in/nsghotra"
     image="images/about/user-picture.png"
     image2x="images/about/user-picture@2x.png"
 
  >}}
 
 {{< education-list
-    title="Formal Education (education-list)" >}}
+    title="Formal Education" >}}
 
 {{< experience-section
     title="My job experience (title)"
@@ -83,11 +83,11 @@ draft = false
     contact_form_message="Your text"
     contact_button="Send message"
     contact_phone_title="My phone"
-    contact_phone_number="<a href='tel:+555666777'>555 666 777</a>"
+    contact_phone_number="<a href='tel:+4387795346'>438 779 5346</a>"
     contact_email_title="My mail"
-    contact_email_email="demo@demosite.com"
+    contact_email_email="navdeepsingh.ghotra@gmail.com"
     contact_address_title="My location"
-    contact_address_address="🇩🇰 Denmark"
+    contact_address_address="🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦 Canada"
     form_action="https://formspree.io/f/mail@example.com"
     form_method="POST"
 >}}

@@ -2,166 +2,260 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-10/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-11/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-12/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-13/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-2/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-3/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-4/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-5/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-6/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-7/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-8/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy-9/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1-copy/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/</loc>
+    <lastmod>2025-02-28T08:05:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/fr/post/chapter-1/"
+                href="http://localhost:35377/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/post/chapter-1/"
+                href="http://localhost:35377/"
                 />
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/blog/icons/</loc>
+    <lastmod>2025-02-28T08:05:05+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/tags/adritian/</loc>
+    <lastmod>2025-02-14T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/tags/guide/</loc>
+    <lastmod>2025-02-14T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/tags/</loc>
+    <lastmod>2025-02-14T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/fr/"
+                href="http://localhost:35377/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/"
+                href="http://localhost:35377/tags/"
                 />
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/tags/kubernetes/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/blog/shortcodes/</loc>
+    <lastmod>2025-02-14T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/blog/getting-started/</loc>
+    <lastmod>2025-02-11T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/blog/other-installation-methods/</loc>
+    <lastmod>2025-02-11T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/experience/</loc>
+    <lastmod>2024-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/experience/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/fr/tags/"
+                href="http://localhost:35377/fr/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/tags/"
+                href="http://localhost:35377/experience/"
                 />
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/experience/job-3/</loc>
+    <lastmod>2024-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/experience/job-3/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/fr/post/"
+                href="http://localhost:35377/fr/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/post/"
+                href="http://localhost:35377/experience/job-3/"
                 />
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/testimonial/graziella-nutella/</loc>
+    <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/testimonial/</loc>
+    <lastmod>2024-11-25T21:53:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/testimonial/dana-oneal/</loc>
+    <lastmod>2024-11-25T21:50:45+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/testimonial/ferdinand-shermand/</loc>
+    <lastmod>2024-11-25T21:30:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/</loc>
+    <lastmod>2024-08-25T10:23:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/ztos/</loc>
+    <lastmod>2024-08-25T10:23:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/zoo/</loc>
+    <lastmod>2024-08-25T10:23:08+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/kanba/</loc>
+    <lastmod>2024-08-25T10:22:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/goldline/</loc>
+    <lastmod>2024-08-25T10:21:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/earth2.0/</loc>
+    <lastmod>2024-08-25T10:17:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/client-work/asgardia/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/education/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/education/high-school/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/projects/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/projects/radity-finance-uikit/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/projects/robo-advisor/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/projects/swiss-fintech/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/education/university-of-life/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/blog/sample-3/</loc>
+    <lastmod>2024-06-24T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/tags/lorem-ipsum/</loc>
+    <lastmod>2024-06-21T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/tags/sample/</loc>
+    <lastmod>2024-06-21T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/blog/sample/</loc>
+    <lastmod>2024-06-21T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/experience/job-3.es-copy/</loc>
+    <lastmod>2024-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35377/experience/job-2/</loc>
+    <lastmod>2023-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/fr/categories/"
+                href="http://localhost:35377/fr/experience/job-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/categories/"
+                href="http://localhost:35377/experience/job-2/"
                 />
   </url><url>
-    <loc>http://localhost:34299/navdeep-singh-ghotra.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:35377/blog/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/fr/contact/"
+                hreflang="es"
+                href="http://localhost:35377/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:34299/navdeep-singh-ghotra.github.io/contact/"
+                href="http://localhost:35377/blog/"
                 />
+  </url><url>
+    <loc>http://localhost:35377/experience/job-1/</loc>
+    <lastmod>2022-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/experience/job-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:35377/experience/job-1/"
+                />
+  </url><url>
+    <loc>http://localhost:35377/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:35377/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:35377/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:35377/home/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:35377/fr/home/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/home/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:35377/home/home/"
+                />
+  </url><url>
+    <loc>http://localhost:35377/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:35377/es/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:35377/fr/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:35377/home/"
+                />
+  </url><url>
+    <loc>http://localhost:35377/cv/</loc>
   </url>
 </urlset>

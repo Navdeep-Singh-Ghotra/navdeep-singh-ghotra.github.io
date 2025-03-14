@@ -64,7 +64,7 @@ sections = [
   "newsletter",
 ]
 # If you want to display an image logo in the header, you can add it here
-logo = './logo.svg'
+logo = '/img/hugo.svg'
 
 homepageExperienceCount = 6
 

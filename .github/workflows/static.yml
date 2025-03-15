@@ -25,6 +25,8 @@ jobs:
   push_to_registry:
     name: Push Docker image to Docker Hub
     runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.144.2
     permissions:
       packages: write
       contents: read

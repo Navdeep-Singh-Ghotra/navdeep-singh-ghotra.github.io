@@ -8,6 +8,7 @@ ENV HUGO_BASEURL=${HUGO_BASEURL}
 # Build site
 COPY . /src
 # Replace below build command at will.
+RUN hugo version
 RUN hugo 
 # Set the fallback 404 page if defaultContentLanguageInSubdir is enabled,
 # please replace the `en` with your default language code.

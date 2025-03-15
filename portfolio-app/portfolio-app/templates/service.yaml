@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Values.httpRoute.service.name  }}
+  labels:
+    {{- include "portfolio-app.labels" . | nindent 4 }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{  .Values.httpRoute.service.port  }}
+      targetPort: {{ .Values.app.port }}
+      protocol: TCP
+      name: http
+
+  selector:
+    {{- include "portfolio-app.selectorLabels" . | nindent 4 }}

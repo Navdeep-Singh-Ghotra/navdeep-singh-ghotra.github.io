@@ -84,7 +84,7 @@ jobs:
         with:
           subject-name: index.docker.io/navdeepsinghghotra/portfolio
           subject-digest: ${{ steps.push.outputs.digest }}
-          push-to-registry: true
+          push-to-registry: false
 
   build:
     runs-on: ubuntu-latest

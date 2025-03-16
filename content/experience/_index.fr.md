@@ -2,7 +2,7 @@
 title: Expérience
 ---
 
-C'est ici que vous pouvez mettre en avant un peu de votre expérience. Années d'expérience totale, spécialisation, etc.
+C'est ici que vous  mettre en avant un peu de votre expérience. Années d'expérience totale, spécialisation, etc.
 
 Le contenu de cette introduction provient du fichier `content/experience/_index.md`.
 Ce type de contenu, les "pages d'index", sont appelées "branch bundles" (paquets de branche). Vous pouvez en savoir plus sur [**les sections et les paquets** dans la documentation de Hugo](https://gohugo.io/content-management/sections/#template-selection).

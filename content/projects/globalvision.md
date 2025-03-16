@@ -22,7 +22,7 @@ Cloud-Based Proofreading Software for Lightning-Fast Compliance Reviews
 Verify eliminates manual reviews by automatically inspecting all text, graphics, and barcodes within seconds
 
 
-```
+
 link: "https://www.adrianmoreno.info" # optional URL to link the logo to
 
 params:
@@ -33,4 +33,3 @@ params:
     image:  
         x: "images/works/swissfintech.jpg"
         _2x: "images/works/swissfintech@2x.jpg"
-```

@@ -74,7 +74,7 @@ draft = false
     title="A selection of my work" >}} 
 
 {{< testimonial-section
-    title="What they say about me" >}}
+    title="" >}}
 
 {{< contact-section
     title="Reach out" 
@@ -88,7 +88,7 @@ draft = false
     contact_email_email="navdeepsingh.ghotra@gmail.com"
     contact_address_title="My location"
     contact_address_address="🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦 Canada"
-    form_action="https://formspree.io/f/mail@example.com"
+    form_action="https://formspree.io/f/xnnpnvdw"
     form_method="POST"
 >}}
 

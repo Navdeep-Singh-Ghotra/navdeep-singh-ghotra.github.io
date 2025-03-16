@@ -103,5 +103,3 @@ draft = false
     form_method="POST"
 >}}
 
-## Extra content
-Additional content added after the `section` blocks. Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.

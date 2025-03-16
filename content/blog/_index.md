@@ -1,11 +1,8 @@
 ---
-title: "Demo Blog"
+title: "Blog"
 date: 2023-01-01
 draft: false
 ---
 
-Welcome to the demo blog. You can customize (or remove) this section in the `_index.md` file in the `blog` folder. You can [read about how to organize content in Hugo](https://gohugo.io/content-management/page-bundles/) in the official docs.
+Welcome to my tech blog. You can find articles created as a part of knowledge sharing here.Mostly [`kubernetes`](https://kubernetes.io/docs/home/) and [docker](https://www.docker.com/). `kubernetes`
 
-The posts below are in the same folder (`blog/`) and can be in the [supported formats by hugo](https://gohugo.io/content-management/formats/) (Markdown, HTML, Emacs Org Mode, AsciiDoc, Pandoc, or reStructuredText).
-
-You can use translations as well. 

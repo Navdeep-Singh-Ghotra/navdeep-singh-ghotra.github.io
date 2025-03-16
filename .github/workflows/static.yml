@@ -6,7 +6,7 @@ on:
   push:
     branches: ["master"]
     paths:
-    - content
+    - 'content/'
     
 
   # Allows you to run this workflow manually from the Actions tab
